@@ -1,1 +1,2 @@
-alert("hello git fuck ")
+alert("hello git fuck ");
+console.log('Test 2')
